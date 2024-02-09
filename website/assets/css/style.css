@@ -33,7 +33,7 @@ body{
 }
 
 #gry {
-    color: green;
+    color: grey;
   }
 
 <<<<<<< HEAD
@@ -42,8 +42,4 @@ body{
         height: 60%;
         width: auto;
 
-=======
-#pic{
-    margin-right: 50px;
->>>>>>> 4315a91 (ty)
 }
