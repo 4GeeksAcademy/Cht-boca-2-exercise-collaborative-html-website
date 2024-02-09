@@ -19,15 +19,16 @@ body{
     width: 100%;
     margin:0;
 }
-.onepagewonder1 {
-    margin: auto;
+.opw-box {
     background-color: white;
+    width: 100%;
+}
+.onepagewonder1 {
     font-size: 92px;
     margin-bottom: 15px;
     margin-top: 50px;
 }
 .onepagewonder2 {
-    background-color: white;
     font-size: 52px;
 }
 
