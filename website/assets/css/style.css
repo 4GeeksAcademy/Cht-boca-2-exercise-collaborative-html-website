@@ -35,6 +35,8 @@ body{
 #gry {
     color: grey;
   }
+
+
   
 .walterwhite{
 
@@ -42,3 +44,9 @@ body{
         width: auto;
 
 }
+
+.W_button_grad{
+    background-color:rgb(16, 202, 226);
+    border-radius: 5px;
+}
+
