@@ -32,13 +32,18 @@ body{
     font-size: 52px;
 }
 
-span {
-    color: grey;
+#gry {
+    color: green;
   }
 
+<<<<<<< HEAD
 .walterwhite{
 
         height: 60%;
         width: auto;
 
+=======
+#pic{
+    margin-right: 50px;
+>>>>>>> 4315a91 (ty)
 }
